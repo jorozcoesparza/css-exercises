@@ -1,0 +1,20 @@
+.pinkbackground {
+background-color: rgb(189, 148, 148);
+font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+color: rgb(0, 0, 255);
+font-size: 36px;
+}
+
+#green {
+background-color: rgb(76, 202, 76);
+font-size: 24px;
+font-weight: bold;
+}
+
+.big {
+font-size: 24px;
+
+}
